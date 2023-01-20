@@ -2,7 +2,7 @@
 
 Vous débutez votre alternance en tant que développeur web au sein de la start-up Booki. 
 
-![Banner Booki](docs/banner_booki.png)
+![Banner Booki](banner_booki.png)
 
 L’entreprise souhaite développer un site Internet qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix.
 
